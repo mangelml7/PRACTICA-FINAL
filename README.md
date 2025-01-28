@@ -51,3 +51,5 @@ def monitorizar_sistema(duracion=30, intervalo=5):
 # Ejecutar la monitorización (duración total de 30 segundos, con intervalos de 5 segundos)
 if __name__ == "__main__":
     monitorizar_sistema(duracion=30, intervalo=5)
+
+    https://github.com/mangelml7/PRACTICA-FINAL.git
